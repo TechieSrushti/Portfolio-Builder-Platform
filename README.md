@@ -1,17 +1,18 @@
 # Portfolio Builder Platform
 
 ## Overview
-(2-3 lines about your project)
+Portfolio Builder Platform is a web-based application that helps users create professional portfolios easily.  
+The platform allows users to showcase their skills, projects, education, and achievements in a structured and attractive format.
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Create and customize professional portfolios
+- User-friendly and responsive interface
+- Showcase skills, projects, and personal information
 
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript (if used)
+- JavaScript
 
 ## Developer
 Srushti Kumbhar
